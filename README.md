@@ -1,10 +1,4 @@
 <p align="center">
-    <a href="https://leetcode.com/clfm/">
-        <img height=150 src="https://raw.githubusercontent.com/clfm/LeetCode/master/images/leetcode-logo.png">
-    </a>
-</p>
-
-<p align="center">
   <b>What is LeetCode?</b><br>
     <a href="https://leetcode.com/">LeetCode</a> provides a massive library of programming challenges, in the style of technical interview questions. The site also hosts competitive programming contests and mock interviews. <br><br>
   <b>What's this repository for?</b><br>
